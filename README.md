@@ -15,4 +15,4 @@ Unordered List Places
 - Plasma cafe
 - Tabla 
 
-[My favorite song](MyMedia.md)
+![My favorite song](MyMedia.md)
