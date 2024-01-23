@@ -16,3 +16,31 @@ Unordered List Places
 - Tabla 
 
 [My favorite song](MyMedia.md)
+
+---
+
+# My recommendations
+
+In this table, I'll talk about my favorite songs and why they mean a lot to me. The table entries won't just state the song titles; they'll also give a glimpse into the reasons why these specific pieces of music are so meaningful to me.
+
+|Name|Reason|Singer|
+|:---|:---:|---:|
+|Hanuman Chalisa|This devotional song, commonly referred to as the Hanuman song, serves as a source of courage for individuals facing fear.|M.S.Subbulakshmi|
+|Gunzukunna|Gunzukunna,a Telugu track.This song holds a special place in my heart because my sister and I used to sing it during our childhood.|A.R.Rahman|
+|Khwab|"Scars To Your Beautiful" is about loving and accepting yourself fully. The song's goal is to connect with and inspire as many people, especially women. Personally, it also inspired me as an individual.|Alessia Cara|
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
