@@ -30,6 +30,13 @@ In this table, I'll talk about my favorite songs and why they mean a lot to me. 
 |Khwab|"Scars To Your Beautiful" is about loving and accepting yourself fully. The song's goal is to connect with and inspire as many people, especially women. Personally, it also inspired me as an individual.|Alessia Cara|
 ---
 
+# My Favorite Quotes
+
+>In three words I can sum up everything I've learned about life: it goes on.
+> *Robert Frost*
+
+> The only way to do great work is to love what you do.
+> *Steve Jobs*
 
 
 
