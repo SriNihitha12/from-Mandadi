@@ -28,6 +28,7 @@ In this table, I'll talk about my favorite songs and why they mean a lot to me. 
 |Hanuman Chalisa|This devotional song, commonly referred to as the Hanuman song, serves as a source of courage for individuals facing fear.|M.S.Subbulakshmi|
 |Gunzukunna|Gunzukunna,a Telugu track.This song holds a special place in my heart because my sister and I used to sing it during our childhood.|A.R.Rahman|
 |Khwab|"Scars To Your Beautiful" is about loving and accepting yourself fully. The song's goal is to connect with and inspire as many people, especially women. Personally, it also inspired me as an individual.|Alessia Cara|
+|Singappenney|The song has a motivational theme for women, hailed as a women's anthem.Its a  Tamil language song|A.R.Rahman|
 ---
 
 # My Favorite Quotes
@@ -38,16 +39,37 @@ In this table, I'll talk about my favorite songs and why they mean a lot to me. 
 > The only way to do great work is to love what you do.
 > *Steve Jobs*
 
+---
+# Code Fencing
 
+This code in Python provides a flexible way to process data. It has a general processor function and a related Processor class, using an organized and adaptable approach for handling data tasks.This code Creates your own data stream in Python.
 
+```
+def processor(reader, converter, writer):
+    while True:
+        data = reader.read()
+        if not data:
+            break
+        data = converter(data)
+        writer.write(data)
 
+class Processor:
+    def __init__(self, reader, writer):
+        self.reader = reader
+        self.writer = writer
 
+    def process(self):
+        while True:
+            data = self.reader.readline()
+            if not data:
+                break
+            data = self.converter(data)
+            self.writer.write(data)
 
+    def converter(data):
+        assert False, 'converter must be defined'
 
-
-
-
-
-
-
+```
+Link for the snippet source:
+ https://code.pieces.app/collections/typescript
 
