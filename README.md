@@ -70,6 +70,5 @@ class Processor:
         assert False, 'converter must be defined'
 
 ```
-[Link for the snippet source:]
- (https://code.pieces.app/collections/typescript)
+[Link for the snippet source:](https://code.pieces.app/collections/typescript)
 
